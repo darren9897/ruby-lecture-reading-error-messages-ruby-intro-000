@@ -1,5 +1,5 @@
 puts "hello world"
 
-hi = 'hello_world'
+hi = 'hello world'
 
 puts hi
